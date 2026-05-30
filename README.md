@@ -15,6 +15,7 @@ artigoparaentrega_checkpoint3/
 │
 ├── escrita/
 ├── gerar dados/
+├── tarefas/
 └── links/
 ```
 
